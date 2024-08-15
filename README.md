@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a passionate and versatile **Full-Stack Develo
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [ https://www.linkedin.com/in/adamu-manu-b5b758217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
-- **Twitter:** [https://x.com/_aadhamu_?s=21]
-- **Email:**  [balaaadhamu45@gmail.com]
+- **LinkedIn:** linkedin.com/in/adamu-manu-b5b758217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- **Twitter:** https://x.com/_aadhamu_?s=21
+- **Email:**  balaaadhamu45@gmail.com
 
 ## 📊 GitHub Stats
 
