@@ -1,54 +1,85 @@
 # Hi there, I'm Adamu 👋
 
-Welcome to my GitHub profile! I'm a passionate and versatile **Full-Stack Developer**, **Forex Trader**, and **Public Speaker** with a deep love for technology and continuous learning.
+Welcome to my GitHub profile! I'm a passionate and versatile **Full-Stack Developer**, **Mobile App Creator**, and **Forex Trader** with a strong drive to build impactful and innovative digital products.
+
+---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on multiple projects including a **school management system**, an **online exam portal**, and **Raliyusresins** - a dynamic and luxurious website for selling resin crafts.
-- 🌱 Expanding my skill set by learning **React Native** and **Laravel**.
-- 🏢 Group leader for various projects, including a **full-stack application for a school management system** and the head of **Safekan startup**.
-- 🎓 Final year student focused on delivering innovative solutions for educational institutions.
-- 💬 Available for public speaking engagements, particularly on technology and personal development.
+- 👨🏽‍💻 Full-stack developer skilled in **React**, **PHP**, and modern frontend tools.
+- 🤖 Currently exploring **Artificial Intelligence** and **Machine Learning** to expand my problem-solving capabilities.
+- 🧠 Focused on learning, improving daily, and creating real-world solutions through technology.
+- 🎓 Final year student building scalable software for education, businesses, and productivity.
+- 🤝 **Co-founder of Chooz**, a polling platform that monetizes audience engagement through paid voting.
 
-## 💼 Professional Experience
+---
 
-- **Front End Developer Intern** applicant at Secure Privacy.
-- Developed a comprehensive online exam portal, simplifying the examination process for students and faculty.
-- Spearheaded the development of a school management system to enhance communication and administrative efficiency.
+## 💼 What I Do
+
+- 💡 Design and develop scalable applications for web and mobile.
+- 📱 Build intuitive user experiences and responsive UIs using modern frameworks.
+- 🧪 Experiment with AI/ML tools to stay ahead in tech evolution.
+- 📘 Document and journal trade strategies through custom-built platforms.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js
-- **Backend:** PHP
-- **Learning:** React Native, Laravel
+**Frontend:**  
+HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, React Native
 
-## 🖥️ Current Projects
+**Backend:**  
+PHP, Laravel, MySQL
 
-- **School Management System:** Enhancing communication and resource sharing between HODs, lecturers, and students.
-- **Online Exam Portal:** Streamlining the examination process with an automated student login and exam display system.
-- **Typing Competition Platform:** Hosting a competitive typing event with multiple rounds.
-- **Raliyusresins:** Building a luxurious, dynamic, and responsive website for selling resin crafts.
+**Currently Learning:**  
+Python, Artificial Intelligence, Machine Learning (ML)
 
-## 📈 Other Interests
+---
 
-- **Forex Trading:** Experienced trader with a strategic approach to the forex market.
-- **Public Speaking:** Passionate about sharing knowledge and inspiring others through engaging talks.
+## 🔥 Featured Projects
 
-## 🌐 Connect with Me
+### 🏫 Linchub  
+**A smart school management system** that bridges communication between HODs, lecturers, and students. Features role-based logins, resource sharing, announcements, and academic management tools.
 
-- **LinkedIn:** [www.linkedin.com/in/adamu-manu-b5b758217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
-- **Twitter:** https://x.com/_aadhamu_?s=21
-- **Email:**  balaaadhamu45@gmail.com
+### 🎮 Babdav Gaming Lounge  
+A **fully responsive website** for a gaming center. Includes event bookings, gallery, location map, and real-time contact integrations. Designed for both desktop and mobile with a sleek gaming vibe.
+
+### 🧺 AbbassLaundry APK  
+A **React Native mobile app** for managing laundry services. Users can book pickups, track orders, and get notified when clothes are ready. Clean UI with smooth transitions and backend integration.
+
+### 📊 TradeDiary  
+A **web app for forex traders** to journal their trades, track performance, and reflect on their strategy. Includes custom tags, trade insights, and analytics to improve trading discipline.
+
+### 🗳️ Chooz  
+A **paid-vote polling platform** that allows organizers to monetize audience participation. Built for transparency, creator earnings, and community voting with deposit verification and referral systems.
+
+---
 
 ## 📊 GitHub Stats
 
 ![Adamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
+---
 
-## 🤝 Let's Collaborate!
+## 💹 Outside Code
 
-I'm always open to collaborating on exciting projects and ideas. Feel free to reach out if you'd like to work together or have any questions!
+- **Forex Trading** – Practicing disciplined, data-backed strategies in the forex market.  
+- **Tech Community** – Active contributor and learner from open-source and tech spaces.
 
 ---
 
-*Made with ❤️ by Adamu*
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/adamu-manu-b5b758217)  
+- [Twitter / X](https://x.com/_aadhamu_)  
+- 📧 balaaadhamu45@gmail.com  
+
+---
+
+## 🤝 Let’s Build Together!
+
+I’m open to exciting collaborations and innovative project ideas. If you’ve got something impactful in mind, feel free to reach out!
+
+---
+
+_Made with ❤️ by Adamu_
